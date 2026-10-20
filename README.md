@@ -5,7 +5,7 @@ profile page on GitHub:
 
 - `profile/README.md` — the organization profile README rendered on the org
   overview page.
-- `profile/assets/` — brand assets shared with the profile README (logo variants and
+- `assets/` — brand assets shared with the profile README (logo variants and
   the organization avatar), sourced from `solti-landing/public/images/`.
 
 The organization avatar itself is uploaded through the GitHub UI
