@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-light.png">
-    <img src="assets/logo-dark.png" alt="Solti" width="320">
+    <source media="(prefers-color-scheme: dark)" srcset="profile/assets/logo-light.png">
+    <img src="profile/assets/logo-dark.png" alt="Solti" width="320">
   </picture>
 </p>
 
